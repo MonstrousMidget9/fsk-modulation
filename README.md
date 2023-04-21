@@ -19,7 +19,7 @@ $$ y_1 = sin{w_1t} $$
 
 $$ y_2 = sin{w_2t} $$
 
-assuming $w_1$ and $w_2$ are associated with binary `1` and `0`, respectively.
+Assuming $w_1$ and $w_2$ are associated with binary `1` and `0`, respectively.
 
   
 
@@ -51,6 +51,6 @@ $$ y_0 = b(t) \cdot sin{w_1t} + (1-b(t)) \cdot sin{w_2t} $$
 
   
 
-graph of resultant wave $y_0$,
+graph of the resultant wave $y_0$,
 
 ![enter image description here](https://github.com/MonstrousMidget9/fsk-modulation/blob/main/graphs/y0.png?raw=true)
